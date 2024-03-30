@@ -1,1 +1,10 @@
+
 qqqq11111
+=======
+<<<<<<< HEAD
+bbbbbbb
+=======
+ggggg
+>>>>>>> first
+11111
+>>>>>>> second
