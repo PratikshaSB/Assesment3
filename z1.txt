@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bbbbbbb
+=======
+ggggg
+>>>>>>> first
 11111
